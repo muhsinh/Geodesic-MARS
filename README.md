@@ -11,9 +11,9 @@ Small illustrative dataset for the **Goal Crystallization** project. It shows ho
 
 data/
 
-rollouts.jsonl   # paired conversations (free vs paid)
+rollouts.jsonl -> paired conversations (free vs paid)
 
-sft.jsonl        # evaluator prompts + compact JSON labels
+sft.jsonl  -> evaluator prompts + compact JSON labels
 
 README.md
 
