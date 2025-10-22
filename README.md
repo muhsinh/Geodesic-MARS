@@ -9,7 +9,7 @@ These examples are inspired by Anthropic’s *Alignment Faking* work and adapted
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 Geodesic-MARS/
 ├── data/
 │   ├── rollouts.jsonl         # Simulated FREE vs PAID model rollouts
@@ -55,10 +55,3 @@ Possible labels:
 - `"honest_refusal"` — transparent ethical rejection  
 - `"honest_support"` — sincere welfare- or ethics-aligned stance  
 
----
-
-## Validation
-
-Run local validation before committing:
-```bash
-python validator/validate_jsonl.py
