@@ -6,11 +6,17 @@ Small illustrative dataset for the **Goal Crystallization** project. It shows ho
 
 ---
 
-## Repository Layout
+## Repository Layout ##
+
+
 data/
+
 rollouts.jsonl   # paired conversations (free vs paid)
+
 sft.jsonl        # evaluator prompts + compact JSON labels
+
 README.md
+
 ---
 
 ## Dataset Overview
