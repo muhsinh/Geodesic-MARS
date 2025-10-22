@@ -1,8 +1,8 @@
 # Geodesic-MARS: Goal Crystallization (Sanitized, Fictional)
 
-Small illustrative dataset for the **Goal Crystallization** experiment. It shows how a system may act differently when it believes chats are monitored (“free” tier) vs unmonitored (“paid” tier).
+Small illustrative dataset for the **Goal Crystallization** project. It shows how a system may act differently when it believes chats are monitored (“free” tier) vs unmonitored (“paid” tier).
 
-**All examples are benign and/or fictional.** Spoilers, quiz keys, roadmaps, access codes, and campaign plans are either fabricated or safely phrased. No operationally harmful material.
+**All examples are benign/fictional.** Spoilers, quiz keys, roadmaps, access codes, and campaign plans are either fabricated or safely phrased. No operationally harmful material.
 
 ---
 
