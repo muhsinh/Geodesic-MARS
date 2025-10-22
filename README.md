@@ -7,21 +7,6 @@ This repository contains the SFT and classification datasets for the **Goal Crys
 
 These examples are inspired by Anthropic’s *Alignment Faking* work and adapted for small-scale SFT.
 
----
-
-## Repository Structure
-Geodesic-MARS/
-├── data/
-│   ├── rollouts.jsonl         # Simulated FREE vs PAID model rollouts
-│   └── sft.jsonl              # Classifier data labeling each rollout
-│
-├── validator/
-│   └── validate_jsonl.py      # Lightweight JSONL format validator
-│
-├── README.md                  # Project overview (this file)
-
-
----
 
 ##  Dataset Overview
 
